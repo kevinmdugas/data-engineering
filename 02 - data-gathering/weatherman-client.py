@@ -1,6 +1,7 @@
 import requests
+import os
 
-_api_key = "144827f6a06410fe397d4df24f9e5c61"
+_api_key = os.getenv('OPENWEATHER_KEY')
 
 def is_currently_raining():
   base_url = "http://api.openweathermap.org/data/2.5/weather?"
