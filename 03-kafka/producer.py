@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import sys
+import json
 from random import choice
 from argparse import ArgumentParser, FileType
 from configparser import ConfigParser
@@ -33,16 +34,10 @@ if __name__ == '__main__':
 
     # Produce data by selecting random values from these lists.
     topic = "lab-data"
-    user_ids = ['eabara', 'jsmith', 'sgarcia', 'jbernard', 'htanaka', 'awalther']
-    products = ['book', 'alarm clock', 't-shirts', 'gift card', 'batteries']
 
-    count = 0
-    for _ in range(100):
-
-        user_id = choice(user_ids)
-        product = choice(products)
-        producer.produce(topic, product, user_id, callback=delivery_callback)
-        count += 1
+    with open('bcsample.json', 'r') as f: data = json.load(f)
+    for row in data:
+      producer.produce(topic, json.dumps(row), str(row['id']), callback=delivery_callback)
 
     # Block until the messages are sent.
     producer.poll(10000)
