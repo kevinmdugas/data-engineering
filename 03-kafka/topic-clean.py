@@ -1,7 +1,6 @@
-#!./confluent-exercise/bin/python python
+#!/usr/bin/env python
 
 import sys
-import json
 from argparse import ArgumentParser, FileType
 from configparser import ConfigParser
 from confluent_kafka import Consumer, OFFSET_BEGINNING
@@ -36,7 +35,7 @@ if __name__ == '__main__':
 
     # Poll for new messages from Kafka and print them.
     try:
-        data = []
+        count = 0
         while True:
             msg = consumer.poll(1.0)
             if msg is None:
@@ -49,15 +48,12 @@ if __name__ == '__main__':
             else:
                 # Extract the (optional) key and value, and print.
 
-                value = json.loads(msg.value().decode('utf-8'))
-                data.append(value)
                 print("Consumed event from topic {topic}: key = {key:12} value = {value:12}".format(
                     topic=msg.topic(), key=msg.key().decode('utf-8'), value=msg.value().decode('utf-8')))
+                count += 1
     except KeyboardInterrupt:
         pass
     finally:
-        # with open('consumer_output.json', 'w') as f:
-        #     f.write(json.dumps(data, indent=4))
         # Leave group and commit final offsets
-        print(f'\nRead {len(data)} rows')
+        print(f'\nRead {count} rows')
         consumer.close()

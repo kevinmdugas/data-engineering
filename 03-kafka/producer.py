@@ -1,7 +1,8 @@
-#!/usr/bin/env python
+#!./confluent-exercise/bin/python python
 
 import sys
 import json
+from time import sleep
 from random import choice
 from argparse import ArgumentParser, FileType
 from configparser import ConfigParser
@@ -38,6 +39,7 @@ if __name__ == '__main__':
     with open('bcsample.json', 'r') as f: data = json.load(f)
     for row in data:
       producer.produce(topic, json.dumps(row), str(row['id']), callback=delivery_callback)
+      sleep(0.25)
 
     # Block until the messages are sent.
     producer.poll(10000)
