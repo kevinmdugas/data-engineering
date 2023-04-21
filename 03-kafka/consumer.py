@@ -47,12 +47,15 @@ if __name__ == '__main__':
             elif msg.error():
                 print("ERROR: %s".format(msg.error()))
             else:
+                key = msg.key().decode('utf-8')
                 # Extract the (optional) key and value, and print.
-
-                value = json.loads(msg.value().decode('utf-8'))
-                data.append(value)
-                print("Consumed event from topic {topic}: key = {key:12} value = {value:12}".format(
+                if key in ['1', '5']:
+                    value = json.loads(msg.value().decode('utf-8'))
+                    data.append(value)
+                    print("Consumed event from topic {topic}: key = {key:12} value = {value:12}".format(
                     topic=msg.topic(), key=msg.key().decode('utf-8'), value=msg.value().decode('utf-8')))
+                else:
+                    print(f'Did not store message with key {key}')
     except KeyboardInterrupt:
         pass
     finally:

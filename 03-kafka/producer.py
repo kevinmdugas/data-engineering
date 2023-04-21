@@ -1,6 +1,6 @@
 #!./confluent-exercise/bin/python python
 
-import sys
+from random import randint
 import json
 from time import sleep
 from random import choice
@@ -38,8 +38,10 @@ if __name__ == '__main__':
 
     with open('bcsample.json', 'r') as f: data = json.load(f)
     for row in data:
-      producer.produce(topic, json.dumps(row), str(row['id']), callback=delivery_callback)
-      sleep(0.25)
+      key = randint(1,5)
+      if key in [1, 5]:
+        producer.produce(topic, json.dumps(row), str(key), callback=delivery_callback)
+      # sleep(0.25)
 
     # Block until the messages are sent.
     producer.poll(10000)
