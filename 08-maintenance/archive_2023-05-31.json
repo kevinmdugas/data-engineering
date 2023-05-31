@@ -1,0 +1,1987 @@
+[
+    {
+        "user_id": "jsmith",
+        "product": "alarm clock",
+        "id": 66822
+    },
+    {
+        "user_id": "awalther",
+        "product": "book",
+        "id": 69140
+    },
+    {
+        "user_id": "htanaka",
+        "product": "alarm clock",
+        "id": 45843
+    },
+    {
+        "user_id": "jsmith",
+        "product": "gift card",
+        "id": 35480
+    },
+    {
+        "user_id": "htanaka",
+        "product": "gift card",
+        "id": 84345
+    },
+    {
+        "user_id": "eabara",
+        "product": "alarm clock",
+        "id": 6181
+    },
+    {
+        "user_id": "awalther",
+        "product": "t-shirts",
+        "id": 4094
+    },
+    {
+        "user_id": "eabara",
+        "product": "gift card",
+        "id": 38573
+    },
+    {
+        "user_id": "eabara",
+        "product": "gift card",
+        "id": 49782
+    },
+    {
+        "user_id": "awalther",
+        "product": "gift card",
+        "id": 98059
+    },
+    {
+        "user_id": "htanaka",
+        "product": "alarm clock",
+        "id": 89466
+    },
+    {
+        "user_id": "eabara",
+        "product": "gift card",
+        "id": 46215
+    },
+    {
+        "user_id": "eabara",
+        "product": "batteries",
+        "id": 27627
+    },
+    {
+        "user_id": "awalther",
+        "product": "batteries",
+        "id": 20438
+    },
+    {
+        "user_id": "htanaka",
+        "product": "alarm clock",
+        "id": 92557
+    },
+    {
+        "user_id": "htanaka",
+        "product": "alarm clock",
+        "id": 17669
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "book",
+        "id": 4106
+    },
+    {
+        "user_id": "jsmith",
+        "product": "gift card",
+        "id": 97113
+    },
+    {
+        "user_id": "eabara",
+        "product": "gift card",
+        "id": 55629
+    },
+    {
+        "user_id": "htanaka",
+        "product": "book",
+        "id": 42407
+    },
+    {
+        "user_id": "eabara",
+        "product": "gift card",
+        "id": 69980
+    },
+    {
+        "user_id": "htanaka",
+        "product": "t-shirts",
+        "id": 46591
+    },
+    {
+        "user_id": "htanaka",
+        "product": "gift card",
+        "id": 82604
+    },
+    {
+        "user_id": "jsmith",
+        "product": "batteries",
+        "id": 28354
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "t-shirts",
+        "id": 8429
+    },
+    {
+        "user_id": "jsmith",
+        "product": "t-shirts",
+        "id": 13177
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "alarm clock",
+        "id": 2714
+    },
+    {
+        "user_id": "eabara",
+        "product": "alarm clock",
+        "id": 63220
+    },
+    {
+        "user_id": "jbernard",
+        "product": "alarm clock",
+        "id": 30436
+    },
+    {
+        "user_id": "awalther",
+        "product": "batteries",
+        "id": 30137
+    },
+    {
+        "user_id": "htanaka",
+        "product": "alarm clock",
+        "id": 23254
+    },
+    {
+        "user_id": "jbernard",
+        "product": "alarm clock",
+        "id": 80977
+    },
+    {
+        "user_id": "jsmith",
+        "product": "batteries",
+        "id": 47932
+    },
+    {
+        "user_id": "jbernard",
+        "product": "batteries",
+        "id": 70697
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "gift card",
+        "id": 48677
+    },
+    {
+        "user_id": "jsmith",
+        "product": "batteries",
+        "id": 78066
+    },
+    {
+        "user_id": "eabara",
+        "product": "batteries",
+        "id": 35587
+    },
+    {
+        "user_id": "jbernard",
+        "product": "gift card",
+        "id": 14636
+    },
+    {
+        "user_id": "eabara",
+        "product": "book",
+        "id": 39109
+    },
+    {
+        "user_id": "awalther",
+        "product": "alarm clock",
+        "id": 27962
+    },
+    {
+        "user_id": "jbernard",
+        "product": "gift card",
+        "id": 84291
+    },
+    {
+        "user_id": "jbernard",
+        "product": "t-shirts",
+        "id": 80138
+    },
+    {
+        "user_id": "jsmith",
+        "product": "book",
+        "id": 85028
+    },
+    {
+        "user_id": "jsmith",
+        "product": "t-shirts",
+        "id": 1242
+    },
+    {
+        "user_id": "eabara",
+        "product": "book",
+        "id": 49318
+    },
+    {
+        "user_id": "jsmith",
+        "product": "batteries",
+        "id": 96676
+    },
+    {
+        "user_id": "jsmith",
+        "product": "book",
+        "id": 91825
+    },
+    {
+        "user_id": "eabara",
+        "product": "gift card",
+        "id": 55908
+    },
+    {
+        "user_id": "awalther",
+        "product": "book",
+        "id": 40320
+    },
+    {
+        "user_id": "jbernard",
+        "product": "batteries",
+        "id": 58884
+    },
+    {
+        "user_id": "eabara",
+        "product": "alarm clock",
+        "id": 27209
+    },
+    {
+        "user_id": "jbernard",
+        "product": "batteries",
+        "id": 9284
+    },
+    {
+        "user_id": "awalther",
+        "product": "batteries",
+        "id": 36908
+    },
+    {
+        "user_id": "jbernard",
+        "product": "alarm clock",
+        "id": 1262
+    },
+    {
+        "user_id": "jsmith",
+        "product": "batteries",
+        "id": 97351
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "alarm clock",
+        "id": 60013
+    },
+    {
+        "user_id": "jbernard",
+        "product": "book",
+        "id": 2166
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "batteries",
+        "id": 52718
+    },
+    {
+        "user_id": "awalther",
+        "product": "alarm clock",
+        "id": 90595
+    },
+    {
+        "user_id": "awalther",
+        "product": "t-shirts",
+        "id": 51643
+    },
+    {
+        "user_id": "awalther",
+        "product": "alarm clock",
+        "id": 75306
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "t-shirts",
+        "id": 59539
+    },
+    {
+        "user_id": "eabara",
+        "product": "batteries",
+        "id": 357
+    },
+    {
+        "user_id": "jbernard",
+        "product": "gift card",
+        "id": 86862
+    },
+    {
+        "user_id": "jbernard",
+        "product": "book",
+        "id": 34420
+    },
+    {
+        "user_id": "awalther",
+        "product": "alarm clock",
+        "id": 53450
+    },
+    {
+        "user_id": "jsmith",
+        "product": "t-shirts",
+        "id": 97901
+    },
+    {
+        "user_id": "htanaka",
+        "product": "t-shirts",
+        "id": 46616
+    },
+    {
+        "user_id": "awalther",
+        "product": "book",
+        "id": 79524
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "gift card",
+        "id": 43538
+    },
+    {
+        "user_id": "jbernard",
+        "product": "batteries",
+        "id": 52270
+    },
+    {
+        "user_id": "jbernard",
+        "product": "t-shirts",
+        "id": 25482
+    },
+    {
+        "user_id": "jbernard",
+        "product": "batteries",
+        "id": 45401
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "batteries",
+        "id": 47084
+    },
+    {
+        "user_id": "eabara",
+        "product": "gift card",
+        "id": 70066
+    },
+    {
+        "user_id": "jbernard",
+        "product": "batteries",
+        "id": 38935
+    },
+    {
+        "user_id": "jsmith",
+        "product": "gift card",
+        "id": 65678
+    },
+    {
+        "user_id": "eabara",
+        "product": "gift card",
+        "id": 25638
+    },
+    {
+        "user_id": "eabara",
+        "product": "gift card",
+        "id": 67722
+    },
+    {
+        "user_id": "htanaka",
+        "product": "gift card",
+        "id": 89568
+    },
+    {
+        "user_id": "jsmith",
+        "product": "book",
+        "id": 91859
+    },
+    {
+        "user_id": "awalther",
+        "product": "book",
+        "id": 68908
+    },
+    {
+        "user_id": "jbernard",
+        "product": "batteries",
+        "id": 76084
+    },
+    {
+        "user_id": "eabara",
+        "product": "gift card",
+        "id": 43865
+    },
+    {
+        "user_id": "jbernard",
+        "product": "batteries",
+        "id": 66312
+    },
+    {
+        "user_id": "jsmith",
+        "product": "alarm clock",
+        "id": 26945
+    },
+    {
+        "user_id": "jbernard",
+        "product": "alarm clock",
+        "id": 52775
+    },
+    {
+        "user_id": "eabara",
+        "product": "batteries",
+        "id": 31904
+    },
+    {
+        "user_id": "awalther",
+        "product": "book",
+        "id": 74135
+    },
+    {
+        "user_id": "awalther",
+        "product": "t-shirts",
+        "id": 94247
+    },
+    {
+        "user_id": "jsmith",
+        "product": "book",
+        "id": 28162
+    },
+    {
+        "user_id": "eabara",
+        "product": "t-shirts",
+        "id": 49138
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "batteries",
+        "id": 25838
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "alarm clock",
+        "id": 49243
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "gift card",
+        "id": 64426
+    },
+    {
+        "user_id": "jsmith",
+        "product": "t-shirts",
+        "id": 2364
+    },
+    {
+        "user_id": "jbernard",
+        "product": "t-shirts",
+        "id": 45394
+    },
+    {
+        "user_id": "awalther",
+        "product": "t-shirts",
+        "id": 65754
+    },
+    {
+        "user_id": "htanaka",
+        "product": "batteries",
+        "id": 64681
+    },
+    {
+        "user_id": "htanaka",
+        "product": "gift card",
+        "id": 28936
+    },
+    {
+        "user_id": "awalther",
+        "product": "gift card",
+        "id": 54499
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "book",
+        "id": 98505
+    },
+    {
+        "user_id": "jsmith",
+        "product": "gift card",
+        "id": 56253
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "batteries",
+        "id": 59202
+    },
+    {
+        "user_id": "eabara",
+        "product": "gift card",
+        "id": 23731
+    },
+    {
+        "user_id": "jbernard",
+        "product": "alarm clock",
+        "id": 54640
+    },
+    {
+        "user_id": "htanaka",
+        "product": "gift card",
+        "id": 35818
+    },
+    {
+        "user_id": "htanaka",
+        "product": "book",
+        "id": 90888
+    },
+    {
+        "user_id": "htanaka",
+        "product": "batteries",
+        "id": 46007
+    },
+    {
+        "user_id": "awalther",
+        "product": "t-shirts",
+        "id": 3655
+    },
+    {
+        "user_id": "awalther",
+        "product": "t-shirts",
+        "id": 21113
+    },
+    {
+        "user_id": "jbernard",
+        "product": "book",
+        "id": 64046
+    },
+    {
+        "user_id": "jsmith",
+        "product": "batteries",
+        "id": 28313
+    },
+    {
+        "user_id": "eabara",
+        "product": "gift card",
+        "id": 94946
+    },
+    {
+        "user_id": "htanaka",
+        "product": "t-shirts",
+        "id": 33579
+    },
+    {
+        "user_id": "eabara",
+        "product": "batteries",
+        "id": 4145
+    },
+    {
+        "user_id": "jsmith",
+        "product": "alarm clock",
+        "id": 11243
+    },
+    {
+        "user_id": "jbernard",
+        "product": "alarm clock",
+        "id": 52006
+    },
+    {
+        "user_id": "jsmith",
+        "product": "batteries",
+        "id": 41921
+    },
+    {
+        "user_id": "jsmith",
+        "product": "t-shirts",
+        "id": 1345
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "alarm clock",
+        "id": 49159
+    },
+    {
+        "user_id": "awalther",
+        "product": "gift card",
+        "id": 38324
+    },
+    {
+        "user_id": "htanaka",
+        "product": "batteries",
+        "id": 78064
+    },
+    {
+        "user_id": "jsmith",
+        "product": "alarm clock",
+        "id": 23885
+    },
+    {
+        "user_id": "htanaka",
+        "product": "batteries",
+        "id": 57019
+    },
+    {
+        "user_id": "htanaka",
+        "product": "book",
+        "id": 12700
+    },
+    {
+        "user_id": "awalther",
+        "product": "t-shirts",
+        "id": 59504
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "gift card",
+        "id": 95352
+    },
+    {
+        "user_id": "htanaka",
+        "product": "batteries",
+        "id": 40581
+    },
+    {
+        "user_id": "eabara",
+        "product": "book",
+        "id": 83994
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "gift card",
+        "id": 23518
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "batteries",
+        "id": 62133
+    },
+    {
+        "user_id": "jbernard",
+        "product": "batteries",
+        "id": 76472
+    },
+    {
+        "user_id": "jbernard",
+        "product": "alarm clock",
+        "id": 43904
+    },
+    {
+        "user_id": "awalther",
+        "product": "book",
+        "id": 52581
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "gift card",
+        "id": 72047
+    },
+    {
+        "user_id": "eabara",
+        "product": "batteries",
+        "id": 98897
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "batteries",
+        "id": 18854
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "t-shirts",
+        "id": 38141
+    },
+    {
+        "user_id": "htanaka",
+        "product": "t-shirts",
+        "id": 23921
+    },
+    {
+        "user_id": "jsmith",
+        "product": "book",
+        "id": 53929
+    },
+    {
+        "user_id": "awalther",
+        "product": "batteries",
+        "id": 43533
+    },
+    {
+        "user_id": "eabara",
+        "product": "book",
+        "id": 38951
+    },
+    {
+        "user_id": "jsmith",
+        "product": "book",
+        "id": 98665
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "t-shirts",
+        "id": 16921
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "t-shirts",
+        "id": 43281
+    },
+    {
+        "user_id": "jsmith",
+        "product": "gift card",
+        "id": 16624
+    },
+    {
+        "user_id": "eabara",
+        "product": "t-shirts",
+        "id": 28555
+    },
+    {
+        "user_id": "jbernard",
+        "product": "book",
+        "id": 436
+    },
+    {
+        "user_id": "htanaka",
+        "product": "gift card",
+        "id": 2199
+    },
+    {
+        "user_id": "htanaka",
+        "product": "batteries",
+        "id": 46554
+    },
+    {
+        "user_id": "awalther",
+        "product": "t-shirts",
+        "id": 29335
+    },
+    {
+        "user_id": "eabara",
+        "product": "t-shirts",
+        "id": 27047
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "gift card",
+        "id": 98330
+    },
+    {
+        "user_id": "jbernard",
+        "product": "alarm clock",
+        "id": 6344
+    },
+    {
+        "user_id": "jsmith",
+        "product": "book",
+        "id": 17055
+    },
+    {
+        "user_id": "eabara",
+        "product": "alarm clock",
+        "id": 38616
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "batteries",
+        "id": 45036
+    },
+    {
+        "user_id": "jbernard",
+        "product": "alarm clock",
+        "id": 82870
+    },
+    {
+        "user_id": "eabara",
+        "product": "batteries",
+        "id": 20410
+    },
+    {
+        "user_id": "jbernard",
+        "product": "book",
+        "id": 61658
+    },
+    {
+        "user_id": "jbernard",
+        "product": "batteries",
+        "id": 50573
+    },
+    {
+        "user_id": "eabara",
+        "product": "gift card",
+        "id": 51464
+    },
+    {
+        "user_id": "htanaka",
+        "product": "book",
+        "id": 70935
+    },
+    {
+        "user_id": "eabara",
+        "product": "batteries",
+        "id": 36710
+    },
+    {
+        "user_id": "htanaka",
+        "product": "alarm clock",
+        "id": 20358
+    },
+    {
+        "user_id": "eabara",
+        "product": "gift card",
+        "id": 30173
+    },
+    {
+        "user_id": "awalther",
+        "product": "batteries",
+        "id": 70033
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "gift card",
+        "id": 39041
+    },
+    {
+        "user_id": "awalther",
+        "product": "alarm clock",
+        "id": 64423
+    },
+    {
+        "user_id": "jsmith",
+        "product": "batteries",
+        "id": 26741
+    },
+    {
+        "user_id": "awalther",
+        "product": "book",
+        "id": 51103
+    },
+    {
+        "user_id": "jbernard",
+        "product": "gift card",
+        "id": 743
+    },
+    {
+        "user_id": "jbernard",
+        "product": "t-shirts",
+        "id": 24179
+    },
+    {
+        "user_id": "eabara",
+        "product": "book",
+        "id": 9766
+    },
+    {
+        "user_id": "jsmith",
+        "product": "alarm clock",
+        "id": 80399
+    },
+    {
+        "user_id": "jsmith",
+        "product": "t-shirts",
+        "id": 51900
+    },
+    {
+        "user_id": "jbernard",
+        "product": "book",
+        "id": 53062
+    },
+    {
+        "user_id": "htanaka",
+        "product": "t-shirts",
+        "id": 16636
+    },
+    {
+        "user_id": "eabara",
+        "product": "book",
+        "id": 32144
+    },
+    {
+        "user_id": "awalther",
+        "product": "gift card",
+        "id": 85631
+    },
+    {
+        "user_id": "eabara",
+        "product": "t-shirts",
+        "id": 96792
+    },
+    {
+        "user_id": "jsmith",
+        "product": "t-shirts",
+        "id": 80679
+    },
+    {
+        "user_id": "jsmith",
+        "product": "t-shirts",
+        "id": 87640
+    },
+    {
+        "user_id": "awalther",
+        "product": "gift card",
+        "id": 3833
+    },
+    {
+        "user_id": "htanaka",
+        "product": "gift card",
+        "id": 21736
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "book",
+        "id": 57318
+    },
+    {
+        "user_id": "eabara",
+        "product": "t-shirts",
+        "id": 39027
+    },
+    {
+        "user_id": "jsmith",
+        "product": "batteries",
+        "id": 77444
+    },
+    {
+        "user_id": "awalther",
+        "product": "alarm clock",
+        "id": 5653
+    },
+    {
+        "user_id": "jsmith",
+        "product": "batteries",
+        "id": 56363
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "gift card",
+        "id": 64684
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "book",
+        "id": 66186
+    },
+    {
+        "user_id": "jbernard",
+        "product": "alarm clock",
+        "id": 75488
+    },
+    {
+        "user_id": "jsmith",
+        "product": "alarm clock",
+        "id": 95939
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "t-shirts",
+        "id": 7445
+    },
+    {
+        "user_id": "jsmith",
+        "product": "gift card",
+        "id": 55498
+    },
+    {
+        "user_id": "awalther",
+        "product": "t-shirts",
+        "id": 58564
+    },
+    {
+        "user_id": "eabara",
+        "product": "alarm clock",
+        "id": 25409
+    },
+    {
+        "user_id": "jbernard",
+        "product": "batteries",
+        "id": 38545
+    },
+    {
+        "user_id": "htanaka",
+        "product": "gift card",
+        "id": 92689
+    },
+    {
+        "user_id": "jsmith",
+        "product": "alarm clock",
+        "id": 13975
+    },
+    {
+        "user_id": "htanaka",
+        "product": "t-shirts",
+        "id": 29878
+    },
+    {
+        "user_id": "htanaka",
+        "product": "t-shirts",
+        "id": 18799
+    },
+    {
+        "user_id": "htanaka",
+        "product": "gift card",
+        "id": 40132
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "alarm clock",
+        "id": 99873
+    },
+    {
+        "user_id": "jsmith",
+        "product": "gift card",
+        "id": 47488
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "alarm clock",
+        "id": 10555
+    },
+    {
+        "user_id": "eabara",
+        "product": "t-shirts",
+        "id": 13702
+    },
+    {
+        "user_id": "jbernard",
+        "product": "batteries",
+        "id": 53283
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "alarm clock",
+        "id": 17919
+    },
+    {
+        "user_id": "jsmith",
+        "product": "gift card",
+        "id": 72912
+    },
+    {
+        "user_id": "eabara",
+        "product": "alarm clock",
+        "id": 43292
+    },
+    {
+        "user_id": "awalther",
+        "product": "book",
+        "id": 95120
+    },
+    {
+        "user_id": "jbernard",
+        "product": "batteries",
+        "id": 5634
+    },
+    {
+        "user_id": "eabara",
+        "product": "t-shirts",
+        "id": 81280
+    },
+    {
+        "user_id": "jbernard",
+        "product": "book",
+        "id": 63523
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "t-shirts",
+        "id": 79872
+    },
+    {
+        "user_id": "jbernard",
+        "product": "book",
+        "id": 78631
+    },
+    {
+        "user_id": "htanaka",
+        "product": "gift card",
+        "id": 56673
+    },
+    {
+        "user_id": "eabara",
+        "product": "gift card",
+        "id": 80379
+    },
+    {
+        "user_id": "eabara",
+        "product": "t-shirts",
+        "id": 34641
+    },
+    {
+        "user_id": "jbernard",
+        "product": "t-shirts",
+        "id": 14196
+    },
+    {
+        "user_id": "jbernard",
+        "product": "alarm clock",
+        "id": 81461
+    },
+    {
+        "user_id": "awalther",
+        "product": "book",
+        "id": 2819
+    },
+    {
+        "user_id": "eabara",
+        "product": "gift card",
+        "id": 56456
+    },
+    {
+        "user_id": "htanaka",
+        "product": "t-shirts",
+        "id": 42504
+    },
+    {
+        "user_id": "jsmith",
+        "product": "alarm clock",
+        "id": 36667
+    },
+    {
+        "user_id": "awalther",
+        "product": "book",
+        "id": 98366
+    },
+    {
+        "user_id": "eabara",
+        "product": "book",
+        "id": 30861
+    },
+    {
+        "user_id": "eabara",
+        "product": "book",
+        "id": 16042
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "book",
+        "id": 16465
+    },
+    {
+        "user_id": "jbernard",
+        "product": "gift card",
+        "id": 32628
+    },
+    {
+        "user_id": "jbernard",
+        "product": "book",
+        "id": 93840
+    },
+    {
+        "user_id": "jsmith",
+        "product": "alarm clock",
+        "id": 77200
+    },
+    {
+        "user_id": "jbernard",
+        "product": "gift card",
+        "id": 92320
+    },
+    {
+        "user_id": "jbernard",
+        "product": "alarm clock",
+        "id": 795
+    },
+    {
+        "user_id": "awalther",
+        "product": "t-shirts",
+        "id": 21665
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "batteries",
+        "id": 79143
+    },
+    {
+        "user_id": "jsmith",
+        "product": "gift card",
+        "id": 46069
+    },
+    {
+        "user_id": "jbernard",
+        "product": "book",
+        "id": 98645
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "gift card",
+        "id": 2634
+    },
+    {
+        "user_id": "awalther",
+        "product": "book",
+        "id": 93122
+    },
+    {
+        "user_id": "htanaka",
+        "product": "t-shirts",
+        "id": 66610
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "t-shirts",
+        "id": 37127
+    },
+    {
+        "user_id": "htanaka",
+        "product": "t-shirts",
+        "id": 56289
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "book",
+        "id": 83956
+    },
+    {
+        "user_id": "awalther",
+        "product": "t-shirts",
+        "id": 27679
+    },
+    {
+        "user_id": "jbernard",
+        "product": "t-shirts",
+        "id": 95581
+    },
+    {
+        "user_id": "awalther",
+        "product": "book",
+        "id": 39307
+    },
+    {
+        "user_id": "eabara",
+        "product": "book",
+        "id": 1965
+    },
+    {
+        "user_id": "htanaka",
+        "product": "alarm clock",
+        "id": 92459
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "batteries",
+        "id": 70904
+    },
+    {
+        "user_id": "htanaka",
+        "product": "batteries",
+        "id": 41939
+    },
+    {
+        "user_id": "jbernard",
+        "product": "book",
+        "id": 64461
+    },
+    {
+        "user_id": "eabara",
+        "product": "alarm clock",
+        "id": 43317
+    },
+    {
+        "user_id": "eabara",
+        "product": "gift card",
+        "id": 18271
+    },
+    {
+        "user_id": "jsmith",
+        "product": "batteries",
+        "id": 21875
+    },
+    {
+        "user_id": "htanaka",
+        "product": "gift card",
+        "id": 86818
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "gift card",
+        "id": 73783
+    },
+    {
+        "user_id": "awalther",
+        "product": "book",
+        "id": 96825
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "book",
+        "id": 8706
+    },
+    {
+        "user_id": "jsmith",
+        "product": "alarm clock",
+        "id": 4548
+    },
+    {
+        "user_id": "jbernard",
+        "product": "book",
+        "id": 99533
+    },
+    {
+        "user_id": "jbernard",
+        "product": "t-shirts",
+        "id": 62141
+    },
+    {
+        "user_id": "htanaka",
+        "product": "alarm clock",
+        "id": 14384
+    },
+    {
+        "user_id": "eabara",
+        "product": "gift card",
+        "id": 18238
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "gift card",
+        "id": 37485
+    },
+    {
+        "user_id": "jsmith",
+        "product": "book",
+        "id": 73115
+    },
+    {
+        "user_id": "jsmith",
+        "product": "book",
+        "id": 71540
+    },
+    {
+        "user_id": "jbernard",
+        "product": "alarm clock",
+        "id": 77374
+    },
+    {
+        "user_id": "awalther",
+        "product": "alarm clock",
+        "id": 99982
+    },
+    {
+        "user_id": "htanaka",
+        "product": "t-shirts",
+        "id": 75784
+    },
+    {
+        "user_id": "awalther",
+        "product": "alarm clock",
+        "id": 72628
+    },
+    {
+        "user_id": "eabara",
+        "product": "book",
+        "id": 24197
+    },
+    {
+        "user_id": "awalther",
+        "product": "alarm clock",
+        "id": 71969
+    },
+    {
+        "user_id": "htanaka",
+        "product": "gift card",
+        "id": 51773
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "book",
+        "id": 77938
+    },
+    {
+        "user_id": "htanaka",
+        "product": "t-shirts",
+        "id": 72030
+    },
+    {
+        "user_id": "jbernard",
+        "product": "book",
+        "id": 57681
+    },
+    {
+        "user_id": "htanaka",
+        "product": "book",
+        "id": 53148
+    },
+    {
+        "user_id": "jsmith",
+        "product": "book",
+        "id": 53823
+    },
+    {
+        "user_id": "htanaka",
+        "product": "alarm clock",
+        "id": 29174
+    },
+    {
+        "user_id": "htanaka",
+        "product": "book",
+        "id": 96566
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "t-shirts",
+        "id": 47149
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "batteries",
+        "id": 57941
+    },
+    {
+        "user_id": "eabara",
+        "product": "t-shirts",
+        "id": 83046
+    },
+    {
+        "user_id": "htanaka",
+        "product": "alarm clock",
+        "id": 44619
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "gift card",
+        "id": 32906
+    },
+    {
+        "user_id": "awalther",
+        "product": "gift card",
+        "id": 85827
+    },
+    {
+        "user_id": "awalther",
+        "product": "alarm clock",
+        "id": 88301
+    },
+    {
+        "user_id": "eabara",
+        "product": "alarm clock",
+        "id": 1836
+    },
+    {
+        "user_id": "jsmith",
+        "product": "book",
+        "id": 80268
+    },
+    {
+        "user_id": "jsmith",
+        "product": "t-shirts",
+        "id": 3634
+    },
+    {
+        "user_id": "jsmith",
+        "product": "alarm clock",
+        "id": 81429
+    },
+    {
+        "user_id": "jbernard",
+        "product": "alarm clock",
+        "id": 20982
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "gift card",
+        "id": 55321
+    },
+    {
+        "user_id": "htanaka",
+        "product": "t-shirts",
+        "id": 43096
+    },
+    {
+        "user_id": "eabara",
+        "product": "gift card",
+        "id": 7191
+    },
+    {
+        "user_id": "jbernard",
+        "product": "gift card",
+        "id": 52064
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "gift card",
+        "id": 10655
+    },
+    {
+        "user_id": "eabara",
+        "product": "t-shirts",
+        "id": 12690
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "t-shirts",
+        "id": 86283
+    },
+    {
+        "user_id": "awalther",
+        "product": "gift card",
+        "id": 77415
+    },
+    {
+        "user_id": "jsmith",
+        "product": "batteries",
+        "id": 85170
+    },
+    {
+        "user_id": "awalther",
+        "product": "batteries",
+        "id": 36405
+    },
+    {
+        "user_id": "eabara",
+        "product": "gift card",
+        "id": 3171
+    },
+    {
+        "user_id": "jsmith",
+        "product": "gift card",
+        "id": 77943
+    },
+    {
+        "user_id": "awalther",
+        "product": "batteries",
+        "id": 33064
+    },
+    {
+        "user_id": "jsmith",
+        "product": "gift card",
+        "id": 87900
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "alarm clock",
+        "id": 98305
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "t-shirts",
+        "id": 62031
+    },
+    {
+        "user_id": "jbernard",
+        "product": "book",
+        "id": 34740
+    },
+    {
+        "user_id": "htanaka",
+        "product": "alarm clock",
+        "id": 88437
+    },
+    {
+        "user_id": "htanaka",
+        "product": "book",
+        "id": 56147
+    },
+    {
+        "user_id": "awalther",
+        "product": "t-shirts",
+        "id": 24884
+    },
+    {
+        "user_id": "awalther",
+        "product": "book",
+        "id": 81805
+    },
+    {
+        "user_id": "jsmith",
+        "product": "gift card",
+        "id": 82650
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "book",
+        "id": 63774
+    },
+    {
+        "user_id": "awalther",
+        "product": "t-shirts",
+        "id": 79546
+    },
+    {
+        "user_id": "jsmith",
+        "product": "alarm clock",
+        "id": 96784
+    },
+    {
+        "user_id": "eabara",
+        "product": "book",
+        "id": 7991
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "t-shirts",
+        "id": 11515
+    },
+    {
+        "user_id": "jbernard",
+        "product": "alarm clock",
+        "id": 91155
+    },
+    {
+        "user_id": "jbernard",
+        "product": "gift card",
+        "id": 69787
+    },
+    {
+        "user_id": "htanaka",
+        "product": "book",
+        "id": 19092
+    },
+    {
+        "user_id": "jsmith",
+        "product": "batteries",
+        "id": 21710
+    },
+    {
+        "user_id": "jsmith",
+        "product": "alarm clock",
+        "id": 1237
+    },
+    {
+        "user_id": "jsmith",
+        "product": "alarm clock",
+        "id": 45102
+    },
+    {
+        "user_id": "htanaka",
+        "product": "gift card",
+        "id": 8159
+    },
+    {
+        "user_id": "eabara",
+        "product": "batteries",
+        "id": 995
+    },
+    {
+        "user_id": "jsmith",
+        "product": "alarm clock",
+        "id": 24210
+    },
+    {
+        "user_id": "jsmith",
+        "product": "batteries",
+        "id": 95367
+    },
+    {
+        "user_id": "jsmith",
+        "product": "book",
+        "id": 33475
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "alarm clock",
+        "id": 52667
+    },
+    {
+        "user_id": "jsmith",
+        "product": "t-shirts",
+        "id": 67597
+    },
+    {
+        "user_id": "jbernard",
+        "product": "batteries",
+        "id": 47502
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "alarm clock",
+        "id": 1036
+    },
+    {
+        "user_id": "awalther",
+        "product": "alarm clock",
+        "id": 84732
+    },
+    {
+        "user_id": "awalther",
+        "product": "gift card",
+        "id": 26338
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "alarm clock",
+        "id": 41648
+    },
+    {
+        "user_id": "htanaka",
+        "product": "book",
+        "id": 73576
+    },
+    {
+        "user_id": "htanaka",
+        "product": "alarm clock",
+        "id": 80113
+    },
+    {
+        "user_id": "jbernard",
+        "product": "alarm clock",
+        "id": 46673
+    },
+    {
+        "user_id": "eabara",
+        "product": "alarm clock",
+        "id": 57906
+    },
+    {
+        "user_id": "jbernard",
+        "product": "gift card",
+        "id": 76124
+    },
+    {
+        "user_id": "htanaka",
+        "product": "gift card",
+        "id": 36386
+    },
+    {
+        "user_id": "awalther",
+        "product": "book",
+        "id": 73494
+    },
+    {
+        "user_id": "eabara",
+        "product": "gift card",
+        "id": 29453
+    },
+    {
+        "user_id": "htanaka",
+        "product": "alarm clock",
+        "id": 32901
+    },
+    {
+        "user_id": "awalther",
+        "product": "t-shirts",
+        "id": 25873
+    },
+    {
+        "user_id": "jsmith",
+        "product": "batteries",
+        "id": 88587
+    },
+    {
+        "user_id": "jsmith",
+        "product": "gift card",
+        "id": 10344
+    },
+    {
+        "user_id": "jbernard",
+        "product": "alarm clock",
+        "id": 12577
+    },
+    {
+        "user_id": "jbernard",
+        "product": "book",
+        "id": 90697
+    },
+    {
+        "user_id": "jsmith",
+        "product": "t-shirts",
+        "id": 21767
+    },
+    {
+        "user_id": "jbernard",
+        "product": "gift card",
+        "id": 50185
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "t-shirts",
+        "id": 78463
+    },
+    {
+        "user_id": "eabara",
+        "product": "book",
+        "id": 53593
+    },
+    {
+        "user_id": "eabara",
+        "product": "gift card",
+        "id": 55768
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "book",
+        "id": 60462
+    },
+    {
+        "user_id": "awalther",
+        "product": "gift card",
+        "id": 92625
+    },
+    {
+        "user_id": "eabara",
+        "product": "book",
+        "id": 33603
+    },
+    {
+        "user_id": "jbernard",
+        "product": "book",
+        "id": 47781
+    },
+    {
+        "user_id": "eabara",
+        "product": "t-shirts",
+        "id": 64552
+    },
+    {
+        "user_id": "jsmith",
+        "product": "t-shirts",
+        "id": 42668
+    },
+    {
+        "user_id": "eabara",
+        "product": "batteries",
+        "id": 7139
+    },
+    {
+        "user_id": "htanaka",
+        "product": "gift card",
+        "id": 15654
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "alarm clock",
+        "id": 61327
+    },
+    {
+        "user_id": "jsmith",
+        "product": "alarm clock",
+        "id": 51533
+    },
+    {
+        "user_id": "jsmith",
+        "product": "batteries",
+        "id": 59890
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "alarm clock",
+        "id": 87524
+    },
+    {
+        "user_id": "htanaka",
+        "product": "alarm clock",
+        "id": 1258
+    },
+    {
+        "user_id": "jsmith",
+        "product": "gift card",
+        "id": 77278
+    },
+    {
+        "user_id": "htanaka",
+        "product": "batteries",
+        "id": 27013
+    },
+    {
+        "user_id": "awalther",
+        "product": "gift card",
+        "id": 14223
+    },
+    {
+        "user_id": "htanaka",
+        "product": "batteries",
+        "id": 70844
+    },
+    {
+        "user_id": "sgarcia",
+        "product": "batteries",
+        "id": 42406
+    },
+    {
+        "user_id": "htanaka",
+        "product": "alarm clock",
+        "id": 51609
+    },
+    {
+        "user_id": "jsmith",
+        "product": "alarm clock",
+        "id": 52454
+    },
+    {
+        "user_id": "jsmith",
+        "product": "book",
+        "id": 20842
+    },
+    {
+        "user_id": "jbernard",
+        "product": "gift card",
+        "id": 78416
+    },
+    {
+        "user_id": "jsmith",
+        "product": "t-shirts",
+        "id": 73192
+    },
+    {
+        "user_id": "eabara",
+        "product": "alarm clock",
+        "id": 2790
+    },
+    {
+        "user_id": "eabara",
+        "product": "t-shirts",
+        "id": 33976
+    },
+    {
+        "user_id": "jsmith",
+        "product": "alarm clock",
+        "id": 12785
+    },
+    {
+        "user_id": "jbernard",
+        "product": "alarm clock",
+        "id": 5499
+    },
+    {
+        "user_id": "awalther",
+        "product": "batteries",
+        "id": 9233
+    },
+    {
+        "user_id": "htanaka",
+        "product": "alarm clock",
+        "id": 54348
+    },
+    {
+        "user_id": "jsmith",
+        "product": "gift card",
+        "id": 87511
+    },
+    {
+        "user_id": "awalther",
+        "product": "book",
+        "id": 30674
+    },
+    {
+        "user_id": "eabara",
+        "product": "alarm clock",
+        "id": 43397
+    },
+    {
+        "user_id": "awalther",
+        "product": "alarm clock",
+        "id": 4273
+    },
+    {
+        "user_id": "awalther",
+        "product": "book",
+        "id": 36380
+    },
+    {
+        "user_id": "htanaka",
+        "product": "gift card",
+        "id": 50338
+    },
+    {
+        "user_id": "htanaka",
+        "product": "batteries",
+        "id": 90933
+    },
+    {
+        "user_id": "jsmith",
+        "product": "gift card",
+        "id": 46595
+    }
+]
